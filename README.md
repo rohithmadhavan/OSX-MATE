@@ -1,7 +1,7 @@
 OSX-MATE is a theme for the MATE Desktop Environment.
 
 By:
-Rohith Madhavan <rohithmadhavan@gmail.com>
+Rohith Madhavan
 
 Based on:
 Radiant-MATE theme
